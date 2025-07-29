@@ -54,7 +54,6 @@ State Management: Redux / Context API
 
 Storage: Firebase Storage / Cloudinary
 
-## 🌐 Live Demo
+## 🌐 Live Demo  
 
 👉 [View Website on Vercel](https://hand-made-website-graduation-projec.vercel.app/)
-
